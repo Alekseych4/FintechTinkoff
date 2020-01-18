@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FintechTinkoff</string>
+
+    <string name="date_of_publication">Время публикации:</string>
+</resources>
